@@ -53,13 +53,6 @@ Keil • STM32CubeIDE • Git • MATLAB • LabVIEW
 
 ## 🌱 Currently Learning  
 - **Rust for Embedded Systems**  
-- **Zephyr RTOS**  
 
 ---
 
-## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TayssirMrad&layout=compact&theme=dark&hide=html,css)  
-
----
-
-⭐ **Fun Fact**: I once debugged a hardware issue with an oscilloscope at 3 AM!  
