@@ -26,7 +26,7 @@ Keil • STM32CubeIDE • Git • MATLAB • LabVIEW
 
 ## 🚀 Featured Projects  
 
-### 1. [LoRaWAN Smart Agriculture Platform]([https://github.com/TayssirMrad/lora-agriculture](https://github.com/TayssirMrad/LoRaWAN-Platform-for-Smart-Agriculture/))  
+### 1. [LoRaWAN Smart Agriculture Platform](https://github.com/TayssirMrad/LoRaWAN-Platform-for-Smart-Agriculture/)  
 🌱 **C++** • **AWS IoT** • **Grafana**  
 - Deployed a LoRa-based system to monitor soil moisture/temperature.  
 - Real-time dashboards with Grafana + MySQL.  
