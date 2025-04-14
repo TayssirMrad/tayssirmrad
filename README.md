@@ -6,8 +6,6 @@ Passionate about designing efficient embedded solutions, from hardware to softwa
 
 🔗 **Connect with me**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tayssir_Ben_Mrad-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/tayssirbenmrad/)  
-[![Email](https://img.shields.io/badge/Email-benmradtayssir@gmail.com-D14836?style=flat&logo=gmail)](mailto:benmradtayssir@gmail.com)  
-
 ---
 
 ## 🛠 Technical Skills  
