@@ -10,14 +10,14 @@ Passionate about designing efficient embedded solutions, from hardware to softwa
 
 ## 🛠 Technical Skills  
 **Languages**:  
-![C](https://img.shields.io/badge/C-Expert-00599C?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=flat&logo=c%2B%2B)  
+![C](https://img.shields.io/badge/C-Advanced-00599C?style=flat&logo=c)  
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat&logo=c%2B%2B)  
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python)  
 
 **Hardware**:  
-![STM32](https://img.shields.io/badge/STM32-Expert-03234B?style=flat&logo=stmicroelectronics)  
+![STM32](https://img.shields.io/badge/STM32-Advanced-03234B?style=flat&logo=stmicroelectronics)  
 ![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-Advanced-0091BD?style=flat&logo=arm)  
-![ESP32](https://img.shields.io/badge/ESP32-Intermediate-E7352C?style=flat&logo=espressif)  
+![ESP32](https://img.shields.io/badge/ESP32-Advanced-E7352C?style=flat&logo=espressif)  
 
 **Tools**:  
 Keil • STM32CubeIDE • Git • MATLAB • LabVIEW  
