@@ -35,7 +35,7 @@ Keil • STM32CubeIDE • Git • MATLAB • LabVIEW
 🔋 **MQTT** • **ESP32** • **NodeRed**  
 - ESP32-based energy monitoring system for hotels with Node-RED dashboard
 
-### 2. [Smart Hydroponic System] https://github.com/TayssirMrad/smart-Hydro) 
+### 2. [Smart Hydroponic System] (https://github.com/TayssirMrad/smart-Hydro) 
 🌱 **C** • **Smart Farming** • **Monitoring**  
 (LOADING..) 
 
