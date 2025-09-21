@@ -35,10 +35,9 @@ Keil • STM32CubeIDE • Git • MATLAB • LabVIEW
 🔋 **MQTT** • **ESP32** • **NodeRed**  
 - ESP32-based energy monitoring system for hotels with Node-RED dashboard
 
-### 2. [Electric Transformer Diagnostic Robot](https://github.com/TayssirMrad/diagnostic-robot)  
-🤖 **C** • **Wi-Fi** • **HTML/JS**  
-- Programmed a robot to measure transformer noise levels.  
-- Built a web interface for remote control.  
+### 2. [Smart Hydroponic System] https://github.com/TayssirMrad/smart-Hydro) (LOADING..) 
+🌱 **C** • **ESP32** • **Monitoring**  
+
 
 
 
@@ -51,8 +50,8 @@ Keil • STM32CubeIDE • Git • MATLAB • LabVIEW
 
 ---
 
-## 🌱 Currently Learning  
-- **Rust for Embedded Systems**  
+## 🌱 Currently Working on 
+- Project : Smart Hydroponic System
 
 ---
 
