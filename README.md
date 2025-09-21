@@ -29,16 +29,18 @@ Keil • STM32CubeIDE • Git • MATLAB • LabVIEW
 ### 1. [LoRaWAN Smart Agriculture Platform](https://github.com/TayssirMrad/LoRaWAN-Platform-for-Smart-Agriculture/)  
 🌱 **C++** • **AWS IoT** • **Grafana**  
 - Deployed a LoRa-based system to monitor soil moisture/temperature.  
-- Real-time dashboards with Grafana + MySQL.  
+- Real-time dashboards with Grafana + MySQL.
 
-### 2. [EDF Transformer Inspection Robot](https://github.com/TayssirMrad/edf-robot)  
+### 2. [Energy Saver for Hotels](https://github.com/TayssirMrad/Energy-saver)  
+🔋 **MQTT** • **ESP32** • **NodeRed**  
+- ESP32-based energy monitoring system for hotels with Node-RED dashboard
+
+### 2. [Electric Transformer Diagnostic Robot](https://github.com/TayssirMrad/diagnostic-robot)  
 🤖 **C** • **Wi-Fi** • **HTML/JS**  
 - Programmed a robot to measure transformer noise levels.  
 - Built a web interface for remote control.  
 
-### 3. [STM32 Low Power Optimization](https://github.com/TayssirMrad/stm32-low-power)  
-🔋 **C** • **STM32L4** • **Keil**  
-- Reduced energy consumption by 30% using Sleep Modes.  
+
 
 ---
 
