@@ -26,16 +26,15 @@ Keil • STM32CubeIDE • Git • MATLAB • LabVIEW
 
 ## 🚀 Featured Projects  
 
-### 1. [LoRaWAN Smart Agriculture Platform](https://github.com/TayssirMrad/LoRaWAN-Platform-for-Smart-Agriculture/)  
-🌱 **C++** • **AWS IoT** • **Grafana**  
-- Deployed a LoRa-based system to monitor soil moisture/temperature.  
-- Real-time dashboards with Grafana + MySQL.
-
-### 2. [Energy Saver for Hotels](https://github.com/TayssirMrad/Energy-saver)  
+### 1. [Energy Saver for Hotels](https://github.com/TayssirMrad/Energy-saver)  
 🔋 **MQTT** • **ESP32** • **NodeRed**  
 - ESP32-based energy monitoring system for hotels with Node-RED dashboard
 
 
+### 2. [LoRaWAN Smart Agriculture Platform](https://github.com/TayssirMrad/LoRaWAN-Platform-for-Smart-Agriculture/)  
+🌱 **C++** • **AWS IoT** • **Grafana**  
+- Deployed a LoRa-based system to monitor soil moisture/temperature.  
+- Real-time dashboards with Grafana + MySQL.
 
 
 ---
