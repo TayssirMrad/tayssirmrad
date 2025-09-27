@@ -37,7 +37,8 @@ Keil • STM32CubeIDE • Git • MATLAB • LabVIEW
 - Real-time dashboards with Grafana + MySQL.
 
 ### 3. [Finger Tip Heart Monitor](https://github.com/TayssirMrad/Finger-Tip-Heart-Monitor/)
-⚕️**C** • **KICAD** • **Monitoring**  
+⚕️ **C** • **KICAD** • **Monitoring**  
+
 ---
 
 ## 📚 Certifications  
