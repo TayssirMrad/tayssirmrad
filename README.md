@@ -15,7 +15,7 @@ Passionate about designing efficient embedded solutions, from hardware to softwa
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python)  
 
 **Hardware**:  
-![STM32](https://img.shields.io/badge/STM32-Advanced-03234B?style=flat&logo=stmicroelectronics)  
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics)  
 ![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-Advanced-0091BD?style=flat&logo=arm)  
 ![ESP32](https://img.shields.io/badge/ESP32-Advanced-E7352C?style=flat&logo=espressif)  
 
