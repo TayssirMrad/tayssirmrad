@@ -36,7 +36,7 @@ Keil • STM32CubeIDE • Git • MATLAB • LabVIEW
 - Deployed a LoRa-based system to monitor soil moisture/temperature.  
 - Real-time dashboards with Grafana + MySQL.
 
-### 3. [Finger Tip Heart Monitor] (https://github.com/TayssirMrad/Finger-Tip-Heart-Monitor/)
+### 3. [Finger Tip Heart Monitor](https://github.com/TayssirMrad/Finger-Tip-Heart-Monitor/)
 ⚕️**C** • **KICAD** • **Monitoring**  
 ---
 
