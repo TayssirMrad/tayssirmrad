@@ -20,7 +20,7 @@ Passionate about designing efficient embedded solutions, from hardware to softwa
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif)  
 
 **Tools**:  
-Keil • STM32CubeIDE • Git • MATLAB • LabVIEW  
+Keil • KiCad • STM32CubeIDE • Git • MATLAB • LabVIEW  
 
 ---
 
