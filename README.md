@@ -33,7 +33,8 @@ Keil • KiCad • STM32CubeIDE • Git • MATLAB • LabVIEW
 
 ### 2. [LoRaWAN Smart Agriculture Platform](https://github.com/TayssirMrad/LoRaWAN-Platform-for-Smart-Agriculture/)  
 🌱 **C++** • **AWS IoT** • **Grafana**  
-- Deployed a LoRa-based system to monitor soil moisture/temperature.  
+- Deployed a LoRa-based system to monitor soil moisture/temperature.
+- Design of a PCB using KiCad featuring an ATmega328 for data acquisition and transmission to AWS IoT Core.
 - Real-time dashboards with Grafana + MySQL.
 
 ### 3. [Finger Tip Heart Monitor](https://github.com/TayssirMrad/Finger-Tip-Heart-Monitor/)
