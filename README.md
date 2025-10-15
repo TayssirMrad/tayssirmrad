@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tayssir Ben Mrad
 
-**Embedded Systems Engineer |  Firmware | IoT & Electronique | C/C++ Developer**  
+**Embedded Systems Engineer |  Firmware | IoT & Electronics | C/C++ Developer**  
 
 Passionate about designing efficient embedded solutions, from hardware to software. I specialize in **STM32 development**, **energy optimization**, and **IoT protocols** (LoRa, BLE, MQTT).  
 
